@@ -12,3 +12,4 @@
 
 #### 화면
 
+![Aug-29-2022 17-49-55](https://user-images.githubusercontent.com/32136601/187212904-3fa58870-c15e-4df2-b628-e2d6d5f413a1.gif)
