@@ -1,4 +1,7 @@
 export default function selectedLanguage(state) {
+    /**
+     * 결과 클릭 또는 submit 시 화면에 그리는 함수
+     */
     const selectedLanguage = document.querySelector(".SelectedLanguage");
     const suggestion = document.querySelector(".Suggestion");
     const selectedText = state.selectedText;

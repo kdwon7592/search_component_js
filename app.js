@@ -4,6 +4,13 @@ import Suggestion from "./components/suggestion.js";
 import SelectedLanguage from "./components/selectedLanguage.js";
 
 export default function App() {
+    /**
+     * 기본 state 설정
+     * searchText : 검색 문자
+     * fetchResult : 검색 결과
+     * currentFocus : 현재 커서 위치
+     * selectedText : 결과값 (최대 5개)
+     */
     this.state = {
         searchText: '',
         fetchResult: [],
